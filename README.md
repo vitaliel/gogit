@@ -2,6 +2,7 @@ gogit
 =====
 
 test1
+test1 - b
 
 Pure Go read access to a git repository.
 
